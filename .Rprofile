@@ -25,8 +25,8 @@ options(repos=c("http://cran.utstat.utoronto.ca/","http://cran.r-project.org"))
 #}
 
 ## Load packages at launch. add or delete packages  according to your needs.
-library("psych")
-library ("ggplot2")
+#library ("psych")
+#library ("ggplot2")
 
 ## Create a new invisible environment for all the functions to go in
 ## so it doesn't clutter your workspace.
